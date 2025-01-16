@@ -1,0 +1,6 @@
+.env
+*.pkl
+.git
+*.h5
+*.csv
+*.png
