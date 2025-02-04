@@ -1,4 +1,4 @@
-# Digital Text Recognition: Using Deep learning algorithms such as CNN and RNN
+# Digital Text Recognition: Using Deep learning algorithms such as CNN 
 
 This project focuses on handwritten text recognition using deep learning models such as CNN (Convolutional Neural Networks) and RNN (Recurrent Neural Networks) with CTC Loss for live predictions. The application supports both an HTTP API for server-based inference and live predictions using a camera feed via OpenCV.
 
